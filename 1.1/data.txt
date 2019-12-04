@@ -1,0 +1,10 @@
+<1><mkdir 1a>
+<3><mkdir 1a/1.1>
+<5><touch 1a/1.1/file>
+<7><rm -rf 1a>
+
+<2><ls>
+<4><ls 1a>
+<6><ls 1a/1.1>
+<8><ls>
+
