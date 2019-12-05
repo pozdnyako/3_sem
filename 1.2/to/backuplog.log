@@ -1,0 +1,77 @@
+[INFO]	backuping started at Thu 31-Oct-2019 10:19:42
+[INFO]	creat dir to/1
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	creat file to/1/b
+[INFO]	copy from/1/b > to/1/b
+[INFO]	creat dir to/1/1.1
+[INFO]	creat dir to/1/1.2
+[INFO]	creat file to/d
+[INFO]	copy from/d > to/d
+[INFO]	creat dir to/3
+[INFO]	creat dir to/3/3.1
+[INFO]	creat file to/3/3.1/c
+[INFO]	copy from/3/3.1/c > to/3/3.1/c
+[INFO]	backuping finished at Thu 31-Oct-2019 10:19:42
+
+
+[INFO]	backuping started at Thu 31-Oct-2019 10:20:07
+[INFO]	creat dir to/2
+[INFO]	backuping finished at Thu 31-Oct-2019 10:20:07
+
+
+[INFO]	backuping started at Thu 31-Oct-2019 10:20:48
+[INFO]	update to/1/a
+[INFO]	backuping finished at Thu 31-Oct-2019 10:20:48
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 03:05:51
+[INFO]	backuping finished at Thu 05-Dec-2019 03:05:51
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 03:06:31
+[INFO]	creat dir to/1
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	creat file to/1/b
+[INFO]	copy from/1/b > to/1/b
+[INFO]	creat dir to/1/1.1
+[INFO]	creat dir to/1/1.2
+[INFO]	creat file to/d
+[INFO]	copy from/d > to/d
+[INFO]	creat dir to/2
+[INFO]	creat dir to/3
+[INFO]	creat dir to/3/3.1
+[INFO]	creat file to/3/3.1/c
+[INFO]	copy from/3/3.1/c > to/3/3.1/c
+[INFO]	backuping finished at Thu 05-Dec-2019 03:06:31
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 03:06:47
+[INFO]	backuping finished at Thu 05-Dec-2019 03:06:47
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:01:44
+[INFO]	backuping finished at Thu 05-Dec-2019 04:01:44
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:03:10
+[INFO]	backuping finished at Thu 05-Dec-2019 04:03:10
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:03:35
+[INFO]	creat dir to/1
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	creat file to/1/b
+[INFO]	copy from/1/b > to/1/b
+[INFO]	creat dir to/1/1.1
+[INFO]	creat dir to/1/1.2
+[INFO]	creat dir to/2
+[INFO]	creat dir to/3
+[INFO]	creat dir to/3/3.1
+[INFO]	creat file to/3/3.1/c
+[INFO]	copy from/3/3.1/c > to/3/3.1/c
+[INFO]	backuping finished at Thu 05-Dec-2019 04:03:35
+
+
