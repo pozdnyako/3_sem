@@ -25,6 +25,7 @@ if(a) {\
 #include "Tree.h"
 
 int get_children_num(Node *parent, int type, char* name);
+extern char** __envp;
 
 typedef struct dirent dirent;
 typedef struct tm time_info;

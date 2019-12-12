@@ -155,7 +155,10 @@ void backup(Node *treeF, Node *treeT, char* pathF, char* pathT) {
     fclose(file);
 }
 
-int main(int argc, char* argv[]) {
+char** __envp;
+
+int main(int argc, char* argv[], char** envp) {
+    __envp = envp;
     checker((argc < 3), "syntaxis: backup dirFrom dirTo")
 
     char pathF[1024];

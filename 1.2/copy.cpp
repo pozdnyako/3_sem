@@ -40,6 +40,15 @@ void crt(char* pathF, char* pathT, int _mode, FILE* file) {
     fprintf(file, "[INFO]\t""creat file %s\n", pathT);
 
     cpy(pathF, pathT);
+
+    printf("%s\n", pathT);
+
+    int p_id = fork();
+    if(p_id == 0) {
+        int res = execle("./bin/gzip", "./bin/gzip", pathT, (char*)NULL, __envp);
+
+        printf("%d, GZIP error\n", res);
+    }
     fprintf(file, "[INFO]\t""copy %s > %s\n", pathF, pathT);
 }
 
