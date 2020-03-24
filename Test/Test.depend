@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1574123039 source:d:\users\admin\documents\github\3_sem\test\main.cpp
+	<iostream>
+	"z.h"
+	"a.h"
+
+1574123092 source:d:\users\admin\documents\github\3_sem\test\a.cpp
+	"a.h"
+	"z.h"
+
+1574123006 source:d:\users\admin\documents\github\3_sem\test\z.cpp
+	"a.h"
+	"z.h"
+
+1574123009 d:\users\admin\documents\github\3_sem\test\a.h
+
+1574123077 d:\users\admin\documents\github\3_sem\test\z.h
+
