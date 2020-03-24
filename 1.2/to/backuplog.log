@@ -1,0 +1,281 @@
+[INFO]	backuping started at Thu 31-Oct-2019 10:19:42
+[INFO]	creat dir to/1
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	creat file to/1/b
+[INFO]	copy from/1/b > to/1/b
+[INFO]	creat dir to/1/1.1
+[INFO]	creat dir to/1/1.2
+[INFO]	creat file to/d
+[INFO]	copy from/d > to/d
+[INFO]	creat dir to/3
+[INFO]	creat dir to/3/3.1
+[INFO]	creat file to/3/3.1/c
+[INFO]	copy from/3/3.1/c > to/3/3.1/c
+[INFO]	backuping finished at Thu 31-Oct-2019 10:19:42
+
+
+[INFO]	backuping started at Thu 31-Oct-2019 10:20:07
+[INFO]	creat dir to/2
+[INFO]	backuping finished at Thu 31-Oct-2019 10:20:07
+
+
+[INFO]	backuping started at Thu 31-Oct-2019 10:20:48
+[INFO]	update to/1/a
+[INFO]	backuping finished at Thu 31-Oct-2019 10:20:48
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 03:05:51
+[INFO]	backuping finished at Thu 05-Dec-2019 03:05:51
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 03:06:31
+[INFO]	creat dir to/1
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	creat file to/1/b
+[INFO]	copy from/1/b > to/1/b
+[INFO]	creat dir to/1/1.1
+[INFO]	creat dir to/1/1.2
+[INFO]	creat file to/d
+[INFO]	copy from/d > to/d
+[INFO]	creat dir to/2
+[INFO]	creat dir to/3
+[INFO]	creat dir to/3/3.1
+[INFO]	creat file to/3/3.1/c
+[INFO]	copy from/3/3.1/c > to/3/3.1/c
+[INFO]	backuping finished at Thu 05-Dec-2019 03:06:31
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 03:06:47
+[INFO]	backuping finished at Thu 05-Dec-2019 03:06:47
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:01:44
+[INFO]	backuping finished at Thu 05-Dec-2019 04:01:44
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:03:10
+[INFO]	backuping finished at Thu 05-Dec-2019 04:03:10
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:03:35
+[INFO]	creat dir to/1
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	creat file to/1/b
+[INFO]	copy from/1/b > to/1/b
+[INFO]	creat dir to/1/1.1
+[INFO]	creat dir to/1/1.2
+[INFO]	creat dir to/2
+[INFO]	creat dir to/3
+[INFO]	creat dir to/3/3.1
+[INFO]	creat file to/3/3.1/c
+[INFO]	copy from/3/3.1/c > to/3/3.1/c
+[INFO]	backuping finished at Thu 05-Dec-2019 04:03:35
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:26:54
+[INFO]	backuping finished at Thu 05-Dec-2019 04:26:54
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:30:35
+[INFO]	backuping finished at Thu 05-Dec-2019 04:30:35
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:30:37
+[INFO]	backuping finished at Thu 05-Dec-2019 04:30:37
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:30:42
+[INFO]	backuping finished at Thu 05-Dec-2019 04:30:42
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:31:49
+[INFO]	backuping finished at Thu 05-Dec-2019 04:31:49
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:31:53
+[INFO]	backuping finished at Thu 05-Dec-2019 04:31:53
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 04:33:05
+[INFO]	backuping finished at Thu 05-Dec-2019 04:33:05
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:41:37
+[INFO]	backuping finished at Thu 05-Dec-2019 11:41:37
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:41:42
+[INFO]	backuping finished at Thu 05-Dec-2019 11:41:42
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:42:10
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	creat file to/1/b
+[INFO]	copy from/1/b > to/1/b
+[INFO]	backuping finished at Thu 05-Dec-2019 11:42:10
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:42:14
+[INFO]	backuping finished at Thu 05-Dec-2019 11:42:14
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:43:52
+[INFO]	backuping finished at Thu 05-Dec-2019 11:43:52
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:44:01
+[INFO]	creat file to/1/b
+[INFO]	copy from/1/b > to/1/b
+[INFO]	backuping finished at Thu 05-Dec-2019 11:44:01
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:44:06
+[INFO]	backuping finished at Thu 05-Dec-2019 11:44:06
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:46:54
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 11:46:54
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:46:54
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 11:46:54
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:48:21
+[INFO]	backuping finished at Thu 05-Dec-2019 11:48:21
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:48:39
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 11:48:39
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:48:39
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 11:48:39
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:51:11
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 11:51:11
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:51:11
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 11:51:11
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:53:57
+[INFO]	backuping finished at Thu 05-Dec-2019 11:53:57
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:54:01
+[INFO]	backuping finished at Thu 05-Dec-2019 11:54:01
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:54:26
+[INFO]	backuping finished at Thu 05-Dec-2019 11:54:26
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:54:48
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 11:54:48
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 11:54:48
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 11:54:48
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:01:56
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	file to/1/a.gz removed
+[INFO]	backuping finished at Thu 05-Dec-2019 12:01:56
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:01:56
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping started at Thu 05-Dec-2019 12:02:33
+[INFO]	backuping finished at Thu 05-Dec-2019 12:02:33
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:02:48
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 12:02:48
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:02:48
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 12:02:48
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:05:23
+[INFO]	backuping finished at Thu 05-Dec-2019 12:05:23
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:05:31
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 12:05:31
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:05:31
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 12:05:31
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:06:10
+[INFO]	backuping finished at Thu 05-Dec-2019 12:06:10
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:07:08
+[INFO]	backuping finished at Thu 05-Dec-2019 12:07:08
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:07:18
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 12:07:18
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:07:18
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 12:07:18
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:09:19
+[INFO]	backuping finished at Thu 05-Dec-2019 12:09:19
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:09:28
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 12:09:28
+
+
+[INFO]	backuping started at Thu 05-Dec-2019 12:09:28
+[INFO]	creat file to/1/a
+[INFO]	copy from/1/a > to/1/a
+[INFO]	backuping finished at Thu 05-Dec-2019 12:09:28
+
+
